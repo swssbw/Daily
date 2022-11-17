@@ -10,6 +10,7 @@
 
 #### Lv.2
 
+- [가장 큰 수](./algorithm/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.js)
 - [기능 개발](./algorithm/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
 - [행렬의 곱셈](./algorithm/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
 - [타겟 넘버](./algorithm/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
