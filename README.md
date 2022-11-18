@@ -10,6 +10,7 @@
 
 #### Lv.2
 
+- [기사단원의 무기](./algorithm/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0.js)
 - [가장 큰 수](./algorithm/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.js)
 - [기능 개발](./algorithm/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
 - [행렬의 곱셈](./algorithm/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
