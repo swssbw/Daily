@@ -11,6 +11,7 @@
 
 #### Lv.2
 
+- [괄호 회전하기](./algorithm/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)
 - [기사단원의 무기](./algorithm/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0.js)
 - [가장 큰 수](./algorithm/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.js)
 - [기능 개발](./algorithm/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
