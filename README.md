@@ -22,3 +22,4 @@
 
 - [배열에서 비동기작업을 할때](./javascript/async-task-in-forEach.md)
 - [array sort메소드](./javascript/sort-method.md)
+- [클로저](./javascript/closure.md)
