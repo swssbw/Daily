@@ -15,6 +15,7 @@
 
 #### Lv.2
 
+- [최댓값과 최솟값](./algorithm/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.js)
 - [H-index](./algorithm/H-index.js)
 - [괄호 회전하기](./algorithm/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)
 - [기사단원의 무기](./algorithm/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0.js)
