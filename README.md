@@ -8,6 +8,7 @@
 
 #### Lv.1
 
+- [명예의 전당(1)](./algorithm/%EB%AA%85%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B91.js)
 - [실패율](./algorithm/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)
 - [완주하지 못한 선수](./algorithm/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.js)
 - [햄버거 만들기](./algorithm/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
