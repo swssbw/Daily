@@ -28,6 +28,7 @@
 - [타겟 넘버](./algorithm/programmers/lv2/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
 - [행렬의 곱셈](./algorithm/programmers/lv2/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
 - [H-index](./algorithm/programmers/lv2/H-index.js)
+- [n^2배열 자르기](./algorithm/programmers/lv2/n%5E2%EB%B0%B0%EC%97%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.js)
 
 ##### Lv.3
 
