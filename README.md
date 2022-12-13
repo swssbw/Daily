@@ -25,6 +25,7 @@
 - [기능 개발](./algorithm/programmers/lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
 - [기사단원의 무기](./algorithm/programmers/lv2/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0.js)
 - [최댓값과 최솟값](./algorithm/programmers/lv2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.js)
+- [최솟값만들기](./algorithm/programmers/lv2/%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [타겟 넘버](./algorithm/programmers/lv2/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
 - [행렬의 곱셈](./algorithm/programmers/lv2/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.js)
 - [H-index](./algorithm/programmers/lv2/H-index.js)
