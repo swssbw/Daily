@@ -50,4 +50,4 @@
 
 ## TIL
 
-- [Next.js api routes로 cors해결할수있을까?](./TIL/nextjs_api_routes.md)
+- [2022.12.19_Next.js api routes로 cors해결할수있을까?](./TIL/nextjs_api_routes.md)
