@@ -2,11 +2,12 @@
 
 
 ## TIL
-- [2022.11.10_JS_배열에서 비동기작업을 할때](./javascript/async-task-in-forEach.md)
-- [2022.11.16_JS_array sort메소드](./javascript/sort-method.md)
-- [2022.11.21_JS_클로저](./javascript/closure.md)
-- [2022.11.27_JS_기본값을 설정할때](./javascript/nullish-coalescing-operator.md)
+- [2023.07.20_Go_http 요청 본문 처리하기 with shouldbindjson](./TIL/2023.07.20_shouldbindjson.md)
 - [2022.12.19_Next.js api routes로 cors해결할수있을까?](./TIL/nextjs_api_routes.md)
+- [2022.11.27_JS_기본값을 설정할때](./javascript/nullish-coalescing-operator.md)
+- [2022.11.21_JS_클로저](./javascript/closure.md)
+- [2022.11.16_JS_array sort메소드](./javascript/sort-method.md)
+- [2022.11.10_JS_배열에서 비동기작업을 할때](./javascript/async-task-in-forEach.md)
 
 
 ## Algorithm
