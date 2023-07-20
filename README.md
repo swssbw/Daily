@@ -2,7 +2,7 @@
 
 
 ## TIL
-- [2023.07.20_Go_http 요청 본문 처리하기 with shouldbindjson](./TIL/2023.07.20_shouldbindjson.md)
+- [2023.07.20_Go_http 요청 본문 처리하기 with shouldbindjson](./TIL/2023.07.20_shouldbindjson)
 - [2022.12.19_Next.js api routes로 cors해결할수있을까?](./TIL/nextjs_api_routes.md)
 - [2022.11.27_JS_기본값을 설정할때](./javascript/nullish-coalescing-operator.md)
 - [2022.11.21_JS_클로저](./javascript/closure.md)
