@@ -1,6 +1,15 @@
-# TIL ARCHIVE ✅
+# ARCHIVE ✅
 
-### Algorithm
+
+## TIL
+- [2022.11.10_JS_배열에서 비동기작업을 할때](./javascript/async-task-in-forEach.md)
+- [2022.11.16_JS_array sort메소드](./javascript/sort-method.md)
+- [2022.11.21_JS_클로저](./javascript/closure.md)
+- [2022.11.27_JS_기본값을 설정할때](./javascript/nullish-coalescing-operator.md)
+- [2022.12.19_Next.js api routes로 cors해결할수있을까?](./TIL/nextjs_api_routes.md)
+
+
+## Algorithm
 
 #### programmers
 
@@ -38,16 +47,3 @@
 - [베스트앨범](./algorithm/programmers/lv3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.js)
 
 <hr/>
-
-## JavaScript
-
-- [배열에서 비동기작업을 할때](./javascript/async-task-in-forEach.md)
-- [클로저](./javascript/closure.md)
-
-<hr/>
-
-## TIL
-
-- [2022.11.16_array sort메소드](./javascript/sort-method.md)
-- [2022.11.27_기본값을 설정할때](./javascript/nullish-coalescing-operator.md)
-- [2022.12.19_Next.js api routes로 cors해결할수있을까?](./TIL/nextjs_api_routes.md)
