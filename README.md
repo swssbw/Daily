@@ -1,41 +1,22 @@
 # TIL
-> Today I Learned
 
+> 오늘 꼭 기억할 내용을 기록합니다.
 
-A collection of concrete writeups of small things I learn daily.
+### GO
 
+- [요청본문 처리하기](TIL/%5Bgo%5D%EC%9A%94%EC%B2%AD_%EB%B3%B8%EB%AC%B8_%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+- [동적 타입 처리하기 ](TIL/%5Bgo%5D%EB%8F%99%EC%A0%81%ED%83%80%EC%9E%85_%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
+- [omitempty로 값이 존재하지 않는 필드 없애기](TIL/%5Bgo%5Domitempty.md)
 
-_12 TILs and counting..._
+### JS TS
 
----
+- [forEach내부에서 비동기 작업](TIL/%5BJS%5Dforeach%EC%99%80async%EB%8A%94%EA%B0%99%EC%9D%B4%EB%AA%BB%EC%8D%A8%EC%9A%94.md)
+- [sort 메소드 제대로 알고 쓰기](TIL/%5BJS%5Dsort-method.md)
+- [기본값 설정하기 ?? || ](TIL/%5BJS%5Dnullish-coalescing-operator.md)
+- [타입스크립트 Enum 멤버변수 접근하기](TIL/%5BTS%5Dtypescript_enum.md)
 
-### 5 most recent TILs
+- [Next.js api routes로 cors 에러 없이 API요청 보낼수 있을까?](TIL/nextjs_api_routes.md)
 
-- [### 동적 타입 처리하기](TIL/go_dynamic_type.md) - Mon Jul 31 09:00:00 2023 +0900
-- [](TIL/HTML_escaping.md) - Fri Jul 28 23:45:22 2023 +0900
-- [API gateway - DynamoDB 연동](TIL/APIgateway_DynamoDB_Integration.md) - Wed Jul 26 22:50:31 2023 +0900
-- [요청 본문의 Act(수정, 수정취소,, 등등)에 따라 다르게 처리하는 PATCH /api/user API 명세를 전달받았다.](TIL/2023.07.20_shouldbindjson.md) - Thu Jul 20 13:43:18 2023 +0900
-- [# Next.js api routes로 cors 에러 없이 API요청 보낼수 있을까?](TIL/nextjs_api_routes.md) - Mon Dec 19 09:10:25 2022 +0900
+### ETC
 
-### Categories
-
-- [TIL](#TIL)
-- [javascript](#javascript)
-
-### [TIL](#TIL)
-- [요청 본문의 Act(수정, 수정취소,, 등등)에 따라 다르게 처리하는 PATCH /api/user API 명세를 전달받았다.](TIL/2023.07.20_shouldbindjson.md)
-- [API gateway - DynamoDB 연동](TIL/APIgateway_DynamoDB_Integration.md)
-- [](TIL/HTML_escaping.md)
-- [### 동적 타입 처리하기](TIL/go_dynamic_type.md)
-- [Go에서 오브젝트를 JSON으로 변환하려면, 오브젝트를 기술한 구조체가 선언되어 있어야 한다.](TIL/go_omitempty.md)
-- [# Next.js api routes로 cors 에러 없이 API요청 보낼수 있을까?](TIL/nextjs_api_routes.md)
-- [스크롤에 따라 그려지는 path](TIL/scrollpath.md)
-- [타입스크립트 enum의 멤버변수로 접근하기](TIL/typescript_enum.md)
-
-### [javascript](#javascript)
-- [문제](javascript/async-task-in-forEach.md)
-- [# 정의](javascript/closure.md)
-- [## 자바스크립트에서 기본값 설정할때](javascript/nullish-coalescing-operator.md)
-- [## 사용법](javascript/sort-method.md)
-
-
+- [API Gateway-DynamoDB연동 CDK](TIL/api_gateway-DynamoDB%EC%97%B0%EB%8F%99.md)
